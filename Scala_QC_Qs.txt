@@ -1,0 +1,108 @@
+Scala QC Questions
+
+Give me an example of how you would use pattern matching?
+
+What is a tuple? 
+
+What is a set?  
+
+What is a trait? How do you use it?  
+
+How do you merge a list? 
+
+What is the relation between an object and a class?
+
+
+Can you list the different collections you have in scala?
+
+What is a recurssion? 
+
+What are futures in scala?  
+
+what is the difference between an expression and a statement? 
+
+can you give me an example of pattern matching? 
+
+can you give a me an example of how a class is created and how an obeject defined?
+
+what is the difference between a pure function and an impure function?
+
+what is the use of a lazy variable?
+
+what is a use case of having scala in your big data? 
+
+how do you drop an int element from a list? 
+
+how do you handle exceptions in scala? 
+
+what is a trait in scala? 
+
+how do you create a nested for loop in scala? 
+
+what is the difference between a map and a flat map? 
+
+what is the significance of tuples in scala? 
+
+what is the different tyes of inheritence in scala? 
+
+In scala what are arrays? can you have different value types? 
+
+what is the diff between set and maps? 
+
+why scala for big data?
+
+how is scala related to JVM and JRE?
+
+is scala a statically typed language? why or why not?
+
+what is a use case for higher order functions?
+
+difference between val and var
+
+integer type?
+
+pure vs impure functions
+
+what is functional programming?
+
+why use auxiliary construction?
+
+map vs flatmap
+
+how to find distinct values in a list
+
+four pillars of OOP
+
+while vs do while
+
+what are the basic scala collections?
+
+what is the Any class?
+
+what is the use of lambda in scala?
+
+what does it mean when you get unit type as a result? (may have misheard this one)
+
+how to handle exceptions
+
+expression vs statement
+
+what are types?
+
+what are higher order functions and how do you create them?
+
+array vs list
+
+how do you drop the nth element in a list?
+
+does scala have global variables?
+
+access modifiers, what are they?
+
+what is an infinite loop?
+
+how do you reverse the contents of a list?
+
+advice: be more confident when answering
+
+advice: know and use the technical terminology
