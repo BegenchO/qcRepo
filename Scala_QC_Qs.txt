@@ -106,3 +106,7 @@ how do you reverse the contents of a list?
 advice: be more confident when answering
 
 advice: know and use the technical terminology
+
+what is the relationaship between java and scala
+
+is scala a static or dynamic (type) language and why
