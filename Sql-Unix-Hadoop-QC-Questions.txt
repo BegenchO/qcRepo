@@ -1,0 +1,60 @@
+SQL, Unix, Hadoop QC questions
+
+QUESTION			(POSSIBLE ANSWER)
+
+Different sql languages		(DDL, DQL and DML)
+
+what is referential integrity in sql		(pk-fk relationship)
+
+how do you handle subqueries in sql
+
+mongodb equivalent of record in sql
+
+what is ssh in lineage
+
+explain hadoop architecture		(storage, processing, operating system (HDFS, MapReduce, YARN))
+
+what is DQL in sql
+
+list different aggregate functions in sql		(group by with sum, count, avg)
+
+ACID		(Atomicity, Consistency, Isolation, Durability)
+
+How to implement SQL references in mongodb		(nested documents)
+
+grep command in Unix
+
+hdfs health check command		(fsck)
+
+Examples of NoSQL databases	MongoDB, HBASE, CASSANDRA
+
+Which YARN Component negotiates resources?			(App Master)
+
+What is multiplicity in SQL
+
+Order of operations in SQL		(Select last, rest in order)
+
+linux fdisk and fsdisk command
+
+When was YARN introduced		(Hadoop 2.0)
+
+Can I perform OLTP on SQL
+
+Can I perform OLAP on SQL
+
+linux sed command
+
+command to transfer data from hdfs to local
+
+between sql operation
+
+group by, order by sql operation
+
+how to update mongodb field
+
+how to go back to root
+
+how to remove directory with files in linux
+
+how to view files in hdfs
+
